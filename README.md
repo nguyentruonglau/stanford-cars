@@ -1,15 +1,11 @@
-﻿# STANFORD CATS DATASET
+﻿# STANFORD CArS DATASET
 
 
 # vietnam-voice [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
 
-This is the audio data set of [40 famous Vietnamese voices](https://drive.google.com/drive/folders/124PpcD2IHhZgbsfbi8u5cF-iOfcVYyG4?usp=sharing)
+ "The Cars dataset contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images, where each class has been split roughly in a 50-50 split. Classes are typically at the level of Make, Model, Year, e.g. 2012 Tesla Model S or 2012 BMW M3 coupe." Dataset at [here](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
->
-> Nguyễn Trường Lâu - Student at University of Information Technology (UIT)
-
-> Bùi Đức Cường - Student at University of Information Technology (UIT)
->
+This repository will help you get label for images in Stanford Cars Dataset.
 
 ![overview](https://github.com/nguyentruonglau/Famous-Voice/blob/main/image/data.png  "VIET NAM VOICE DATASET")
 
