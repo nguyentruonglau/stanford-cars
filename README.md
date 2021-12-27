@@ -13,9 +13,8 @@ You can get images of the dataset: training set at [here](http://ai.stanford.edu
 
 ## Object
 
-``` 
 This repository will help you get label for images in Stanford Cars Dataset and split them into different folders.
-```
+
 
 ## Description
 
